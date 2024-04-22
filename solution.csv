@@ -1,0 +1,85 @@
+document_id;entity;entity_vec
+10;"
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+глава правительства	глава правительства	PER	PER-government-head
+премьер	премьер	PER	PER-prime-minister
+Северная Ирландия	Северная Ирлангия	LOC	LOC-Northern-Ireland
+Брюссель	Брюссель	LOC	LOC-Brussels
+единая Европа	единая Европа	LOC	LOC-single-Europe
+Лондон	Лондон	LOC	LOC-London
+Евросоюз	Евросоюз	ORG	ORG-EU
+Британия	Британия	LOC	LOC-Britain
+конференция тори	конференция тори	EVT	EVT-Conservative-conference
+Европейский парламент	Европейский парламент	ORG	ORG-European-Parliament
+британский парламент	британский парламент	ORG	ORG-British-Parliament
+";[{'Name': 'Тереза Мэй', 'Normalized Name': 'Тереза Мэй', 'Type': 'PER', 'Identifier': 'PER-Theresa-May'}, {'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'глава правительства', 'Normalized Name': 'глава правительства', 'Type': 'PER', 'Identifier': 'PER-government-head'}, {'Name': 'премьер', 'Normalized Name': 'премьер', 'Type': 'PER', 'Identifier': 'PER-prime-minister'}, {'Name': 'Северная Ирландия', 'Normalized Name': 'Северная Ирлангия', 'Type': 'LOC', 'Identifier': 'LOC-Northern-Ireland'}, {'Name': 'Брюссель', 'Normalized Name': 'Брюссель', 'Type': 'LOC', 'Identifier': 'LOC-Brussels'}, {'Name': 'единая Европа', 'Normalized Name': 'единая Европа', 'Type': 'LOC', 'Identifier': 'LOC-single-Europe'}, {'Name': 'Лондон', 'Normalized Name': 'Лондон', 'Type': 'LOC', 'Identifier': 'LOC-London'}, {'Name': 'Евросоюз', 'Normalized Name': 'Евросоюз', 'Type': 'ORG', 'Identifier': 'ORG-EU'}, {'Name': 'Британия', 'Normalized Name': 'Британия', 'Type': 'LOC', 'Identifier': 'LOC-Britain'}, {'Name': 'конференция тори', 'Normalized Name': 'конференция тори', 'Type': 'EVT', 'Identifier': 'EVT-Conservative-conference'}, {'Name': 'Европейский парламент', 'Normalized Name': 'Европейский парламент', 'Type': 'ORG', 'Identifier': 'ORG-European-Parliament'}, {'Name': 'британский парламент', 'Normalized Name': 'британский парламент', 'Type': 'ORG', 'Identifier': 'ORG-British-Parliament'}]
+1006;"
+Захарова	Захарова	PER	PER-Zakharova
+Мария Захарова	Мария Захарова	PER	PER-Maria-Zakharova
+МИД России	МИД России	ORG	ORG-MID-RF
+Великобритания	Великобритания	LOC	LOC-Great-Britain
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+министр иностранных дел Великобритании	министр иностранных дел Великобритании	ORG	ORG-Foreign-Minister-of-GB
+правительство Т. Мэй	правительство Т. Мэй	ORG	ORG-Government-Theresa-May
+условия Brexit	условия Brexit	EVT	EVT-Brexit-conditions
+";[{'Name': 'Захарова', 'Normalized Name': 'Захарова', 'Type': 'PER', 'Identifier': 'PER-Zakharova'}, {'Name': 'Мария Захарова', 'Normalized Name': 'Мария Захарова', 'Type': 'PER', 'Identifier': 'PER-Maria-Zakharova'}, {'Name': 'МИД России', 'Normalized Name': 'МИД России', 'Type': 'ORG', 'Identifier': 'ORG-MID-RF'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-Great-Britain'}, {'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'министр иностранных дел Великобритании', 'Normalized Name': 'министр иностранных дел Великобритании', 'Type': 'ORG', 'Identifier': 'ORG-Foreign-Minister-of-GB'}, {'Name': 'правительство Т. Мэй', 'Normalized Name': 'правительство Т. Мэй', 'Type': 'ORG', 'Identifier': 'ORG-Government-Theresa-May'}, {'Name': 'условия Brexit', 'Normalized Name': 'условия Brexit', 'Type': 'EVT', 'Identifier': 'EVT-Brexit-conditions'}]
+1004;"
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Глава МИД Великобритании	глава МИД Великобритании	PER
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+Великобритания	Великобритания	LOC	LOC-Great-Britain
+ЕС	ЕС	ORG	ORG-EU
+";[{'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'Тереза Мэй', 'Normalized Name': 'Тереза Мэй', 'Type': 'PER', 'Identifier': 'PER-Theresa-May'}, {'Name': 'Дэвид Дэвис', 'Normalized Name': 'Дэвид Дэвис', 'Type': 'PER', 'Identifier': 'PER-David-Davis'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-Great-Britain'}, {'Name': 'ЕС', 'Normalized Name': 'ЕС', 'Type': 'ORG', 'Identifier': 'ORG-EU'}]
+1011;"
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Великобритания	Великобритания	LOC	LOC-Great-Britain
+ЕС	ЕС	ORG	ORG-EU
+";[{'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'Тереза Мэй', 'Normalized Name': 'Тереза Мэй', 'Type': 'PER', 'Identifier': 'PER-Theresa-May'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-Great-Britain'}, {'Name': 'ЕС', 'Normalized Name': 'ЕС', 'Type': 'ORG', 'Identifier': 'ORG-EU'}]
+1001;"
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Великобритания	Великобритания	LOC	LOC-Great-Britain
+ЕС	ЕС	ORG	ORG-EU
+";[{'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'Тереза Мэй', 'Normalized Name': 'Тереза Мэй', 'Type': 'PER', 'Identifier': 'PER-Theresa-May'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-Great-Britain'}, {'Name': 'ЕС', 'Normalized Name': 'ЕС', 'Type': 'ORG', 'Identifier': 'ORG-EU'}]
+1000;"
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Великобритания	Великобритания	LOC	LOC-United-Kingdom
+ЕС	ЕС	ORG	ORG-EU
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davies
+Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+The Guardian	The Guardian	ORG	ORG-Guardian
+УНН	УНН	ORG	ORG-UNN
+";[{'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-United-Kingdom'}, {'Name': 'ЕС', 'Normalized Name': 'ЕС', 'Type': 'ORG', 'Identifier': 'ORG-EU'}, {'Name': 'Тереза Мэй', 'Normalized Name': 'Тереза Мэй', 'Type': 'PER', 'Identifier': 'PER-Theresa-May'}, {'Name': 'Дэвид Дэвис', 'Normalized Name': 'Дэвид Дэвис', 'Type': 'PER', 'Identifier': 'PER-David-Davies'}, {'Name': 'Стив Бейкер', 'Normalized Name': 'Стив Бейкер', 'Type': 'PER', 'Identifier': 'PER-Steve-Baker'}, {'Name': 'The Guardian', 'Normalized Name': 'The Guardian', 'Type': 'ORG', 'Identifier': 'ORG-Guardian'}, {'Name': 'УНН', 'Normalized Name': 'УНН', 'Type': 'ORG', 'Identifier': 'ORG-UNN'}]
+1002;"
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Великобритания	Великобритания	LOC	LOC-United-Kingdom
+ЕС	ЕС	ORG	ORG-EU
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davies
+";[{'Name': 'Тереза Мей', 'Normalized Name': 'Тереза Мей', 'Type': 'PER', 'Identifier': 'PER-Theresa-May'}, {'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-United-Kingdom'}, {'Name': 'ЕС', 'Normalized Name': 'ЕС', 'Type': 'ORG', 'Identifier': 'ORG-EU'}, {'Name': 'Дэвид Дэвис', 'Normalized Name': 'Дэвид Дэвис', 'Type': 'PER', 'Identifier': 'PER-David-Davies'}]
+1017;"
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Великобритания	Великобритания	LOC	LOC-United-Kingdom
+The Guardian	The Guardian	ORG	ORG-Guardian
+УНН	УНН	ORG	ORG-UNN
+премьер-министр	rezident	PER	PER-prime-minister
+Великобритания	Великобритания	LOC	LOC-United-Kingdom
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+ЕС	ЕС	ORG	ORG-EU
+Великобритания	Великобритания	LOC	LOC-United-Kingdom
+ЕС	ЕС	ORG	ORG-EU
+";[{'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-United-Kingdom'}, {'Name': 'The Guardian', 'Normalized Name': 'The Guardian', 'Type': 'ORG', 'Identifier': 'ORG-Guardian'}, {'Name': 'УНН', 'Normalized Name': 'УНН', 'Type': 'ORG', 'Identifier': 'ORG-UNN'}, {'Name': 'премьер-министр', 'Normalized Name': 'rezident', 'Type': 'PER', 'Identifier': 'PER-prime-minister'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-United-Kingdom'}, {'Name': 'Тереза Мэй', 'Normalized Name': 'Тереза Мэй', 'Type': 'PER', 'Identifier': 'PER-Theresa-May'}, {'Name': 'ЕС', 'Normalized Name': 'ЕС', 'Type': 'ORG', 'Identifier': 'ORG-EU'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-United-Kingdom'}, {'Name': 'ЕС', 'Normalized Name': 'ЕС', 'Type': 'ORG', 'Identifier': 'ORG-EU'}]
+1003;"
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Великобритания	Великобритания	LOC	LOC-United-Kingdom
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Евросоюз	Евросоюз	ORG	ORG-EU
+Рейтер	Рейтер	ORG	ORG-Reuters
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davies
+";[{'Name': 'Борис Джонсон', 'Normalized Name': 'Борис Джонсон', 'Type': 'PER', 'Identifier': 'PER-Boris-Johnson'}, {'Name': 'Великобритания', 'Normalized Name': 'Великобритания', 'Type': 'LOC', 'Identifier': 'LOC-United-Kingdom'}, {'Name': 'Тереза Мэй', 'Normalized Name': 'Тереза Мэй', 'Type': 'PER', 'Identifier': 'PER-Theresa-May'}, {'Name': 'Евросоюз', 'Normalized Name': 'Евросоюз', 'Type': 'ORG', 'Identifier': 'ORG-EU'}, {'Name': 'Рейтер', 'Normalized Name': 'Рейтер', 'Type': 'ORG', 'Identifier': 'ORG-Reuters'}, {'Name': 'Дэвид Дэвис', 'Normalized Name': 'Дэвид Дэвис', 'Type': 'PER', 'Identifier': 'PER-David-Davies'}]
